@@ -29,20 +29,6 @@
       <scope>test</scope>
     </dependency>
 
-<!-- https://mvnrepository.com/artifact/cobertura/cobertura -->
-<dependency>
-    <groupId>cobertura</groupId>
-    <artifactId>cobertura</artifactId>
-    <version>1.8</version>
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/com.atlassian.clover/clover -->
-<dependency>
-    <groupId>${abc}</groupId>
-    <artifactId>clover</artifactId>
-    <version>4.0.0</version>
-</dependency>
-
   </dependencies>
   
   <build>
